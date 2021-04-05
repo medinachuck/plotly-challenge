@@ -149,15 +149,3 @@ d3.json("samples.json").then((init_data) => {
     // update charts when dataset select div changes
     d3.select("#selDataset").on("change", updatePlotly);
 })
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
